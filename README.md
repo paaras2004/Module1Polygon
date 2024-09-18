@@ -34,12 +34,12 @@ This project involves the deployment of a 5-item NFT collection using Bing AI-ge
 ### Contract Name and Symbol
 
 ```solidity
-contract IGNIS is ERC721A
+contract Dinar is ERC721A
 ```
-Name : IGNIS  
+Name : Dinar  
 Symbol :IGN 
 
-The `IGNIS` contract extends the `ERC721A` contract and represents a collection of unique NFTs inspired by the Naruto series.
+The `Dinar` contract extends the `ERC721A` contract and represents a collection of unique NFTs inspired by the Naruto series.
 
 ### Maximum Quantity of Tokens
 
