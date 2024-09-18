@@ -21,7 +21,7 @@ This project involves the deployment of a 5-item NFT collection using Bing AI-ge
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/SUNILCHOUDHARY5764/Polygon_Module1.git`
+1. Clone this repository: `git clone https://github.com/Kshitij251203/Polygon1.git`
 2. Navigate to the project folder.
 3. Install dependencies: `npm install`
 ### Wallet Config
